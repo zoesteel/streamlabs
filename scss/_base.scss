@@ -71,9 +71,9 @@ p {
 a {
 	color: $text-grey;
 	transition: color $transition-time;
+
 	&:hover {
 		color: #fff;
-		text-decoration: none;
 	}
 }
 
